@@ -5,7 +5,6 @@ import edu.princeton.cs.algs4.StdOut;
 public class Main {
 
     public static void main(String[] args) {
-
         int[] a = {2,8,6,9,9,10,22};
         printArray(histogram(a, 10));
 //        System.out.println(histogram(a, 10));
